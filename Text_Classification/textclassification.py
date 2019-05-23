@@ -21,7 +21,7 @@ for i in range(len(data)):
 #Chuyển văn bản thành các vector theo tfidf
 tfidfconverter = TfidfVectorizer(max_features=2000, min_df=5, max_df=0.7)
 X = tfidfconverter.fit_transform(word_data).toarray()
-
+print(X.shape)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
 
 #Tạo model dùng thuật toán Naive Bayes

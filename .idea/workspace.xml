@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c9b56a4-0629-47bc-8394-eb88f6d9b87e" name="Default Changelist" comment="" />
+    <list default="true" id="8c9b56a4-0629-47bc-8394-eb88f6d9b87e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/news2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main/news2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text_Classification/textclassification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Text_Classification/textclassification.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/hamxuly.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="119">
               <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -22,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            <state relative-caret-position="192">
+              <caret line="57" column="62" selection-start-line="57" selection-start-column="62" selection-end-line="57" selection-end-column="62" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -35,19 +41,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/news.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/news2.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VnExpressCrawler/document.csv">
           <provider selected="true" editor-type-id="LargeFileEditor">
-            <state relative-caret-position="108919">
+            <state relative-caret-position="115617">
               <caret line="6801" selection-start-line="6801" selection-end-line="6801" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Text_Classification/textclassification.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-369">
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="136">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -55,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/xulydulieu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="323">
               <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="e#0#77#0" expanded="true" />
@@ -67,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/vietnamese-stopwords.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
+            <state relative-caret-position="29767">
               <caret line="1751" column="4" selection-start-line="1751" selection-start-column="4" selection-end-line="1751" selection-end-column="4" />
             </state>
           </provider>
@@ -91,6 +115,9 @@
       <find>print</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -102,13 +129,13 @@
         <option value="$PROJECT_DIR$/VnExpressCrawler/VnExpressCrawler/items.py" />
         <option value="$PROJECT_DIR$/VnExpressCrawler/VnExpressCrawler/spiders/content_spiders.py" />
         <option value="$PROJECT_DIR$/TienXuLyDuLieu/datavnexpress.csv" />
-        <option value="$PROJECT_DIR$/Main/news2.csv" />
         <option value="$PROJECT_DIR$/Text_Classification/create_dictionary.py" />
         <option value="$PROJECT_DIR$/TienXuLyDuLieu/datavnexpress1.csv" />
         <option value="$PROJECT_DIR$/Text_Classification/create_word_data.py" />
-        <option value="$PROJECT_DIR$/Main/main.py" />
-        <option value="$PROJECT_DIR$/Text_Classification/textclassification.py" />
         <option value="$PROJECT_DIR$/TienXuLyDuLieu/xulydulieu.py" />
+        <option value="$PROJECT_DIR$/Text_Classification/textclassification.py" />
+        <option value="$PROJECT_DIR$/Main/news2.csv" />
+        <option value="$PROJECT_DIR$/Main/main.py" />
       </list>
     </option>
   </component>
@@ -117,12 +144,12 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,16 +159,22 @@
             </path>
             <path>
               <item name="DoAn_KTDL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoAn_KTDL" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DoAn_KTDL" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Downloads/TextClassification-Vnexpress-master" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -161,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.xulydulieu (1)">
+  <component name="RunManager" selected="Python.main">
     <configuration name="create_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DoAn_KTDL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,9 +302,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.xulydulieu (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.textclassification" />
+        <item itemvalue="Python.xulydulieu (1)" />
         <item itemvalue="Python.create_dictionary" />
         <item itemvalue="Python.xulydulieu" />
       </list>
@@ -282,6 +315,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22538003" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -383,33 +417,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/content2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2397">
-          <caret line="141" column="23" selection-start-line="141" selection-start-column="23" selection-end-line="141" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/content.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/content2.csv" />
+    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/content.csv" />
     <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/dataexpress.csv" />
-    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/content3.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="1683">
-          <caret line="99" column="60" selection-start-line="97" selection-start-column="4" selection-end-line="99" selection-end-column="60" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="7786">
-          <caret line="458" selection-start-line="458" selection-end-line="458" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/content3.csv" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/sklearn/model_selection/_split.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="814">
@@ -417,65 +428,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Text_Classification/dictionary1.txt">
+    <entry file="file://$PROJECT_DIR$/Text_Classification/dictionary1.txt" />
+    <entry file="file://$PROJECT_DIR$/Text_Classification/create_word_data.py" />
+    <entry file="file://$PROJECT_DIR$/Text_Classification/word_data.txt" />
+    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/file1.csv" />
+    <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/datavnexpress1.csv" />
+    <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/hamxuly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200719">
-          <caret line="11807" column="62" selection-start-line="11807" selection-start-column="62" selection-end-line="11807" selection-end-column="62" />
+        <state relative-caret-position="119">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/news.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/document.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="115617">
+          <caret line="6801" selection-start-line="6801" selection-end-line="6801" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/news2.csv">
+    <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/xulydulieu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="172" selection-start-column="172" selection-end-column="172" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Text_Classification/create_word_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
           <folding>
             <element signature="e#0#77#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Text_Classification/word_data.txt">
+    <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/vietnamese-stopwords.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21148">
-          <caret line="1244" selection-start-line="1244" selection-end-line="1244" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/file1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76071">
-          <caret line="74" column="60" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VnExpressCrawler/document.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="108919">
-          <caret line="6801" selection-start-line="6801" selection-end-line="6801" />
+        <state relative-caret-position="29767">
+          <caret line="1751" column="4" selection-start-line="1751" selection-start-column="4" selection-end-line="1751" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -486,44 +474,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/vietnamese-stopwords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="1751" column="4" selection-start-line="1751" selection-start-column="4" selection-end-line="1751" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/datavnexpress1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/xulydulieu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TienXuLyDuLieu/hamxuly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Text_Classification/textclassification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-369">
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/news.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/news2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="57" column="62" selection-start-line="57" selection-start-column="62" selection-end-line="57" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
