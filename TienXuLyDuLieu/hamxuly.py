@@ -4,8 +4,6 @@ from underthesea import word_tokenize
 
 def clean_text(document):
 
-    #Xóa các kí tự đơn lẻ
-    document = re.sub(r'\s+[a-zA-Z]\s+', ' ', document)
     #Xóa các kí tự nháy đơn
     document=re.sub(r'\'', ' ', document)
     #Xóa các kí tự đơn lẻ ở đầu văn bản
